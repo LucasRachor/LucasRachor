@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasRachor
 - 👀 I’m interested in development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning NodeJS
 
 <!---
 LucasRachor/LucasRachor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
