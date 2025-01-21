@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Lucas Rachor
 - 💻 Backend Developer
+- ✨ NestJS | NodeJS
 - 🌱 I’m currently learning NestJS
 
 <!---
