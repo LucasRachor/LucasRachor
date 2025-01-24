@@ -18,7 +18,5 @@
 </div>
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rachor-16b52a292/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/LucasRachor)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:lucas.rachor32@Gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rachor-16b52a292/)
 </div>
