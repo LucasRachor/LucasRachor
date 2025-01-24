@@ -15,7 +15,7 @@
   <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=LucasRachor&theme=github_dark" /> 
   <img width="40%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasRachor&layout=compact&bg_color=0D1117&border_color=fffC&title_color=4886CC&text_color=FFF" />
   </a>
-  <img width="12%" height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img width="10%" height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 
 
