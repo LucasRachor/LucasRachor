@@ -1,3 +1,11 @@
+<div style="display:flex; width: 100%; justify-content: flex-start">
+  <a href="https://git.io/typing-svg">
+ <p>👋</p>
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,%20+me+chamo+Lucas+Silva+Rachor;Seja+muito+bem+vindo!+:)" alt="Typing SVG" style="font-size: 150px" >
+  </a>
+</div>
+
+
 - 👋 Hi, I’m Lucas Rachor
 - 💻 Backend Developer
 - ✨ NestJS | NodeJS
