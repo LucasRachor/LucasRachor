@@ -12,7 +12,7 @@
 
 <div width="100%" align="center" justify="center">  
   <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=LucasRachor&theme=github_dark" /> 
-  <img width="60%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasRachor&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  <img width="80%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasRachor&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
   <br/>
   <br/>
   <a href="https://www.linkedin.com/in/lucas-rachor-16b52a292/">
