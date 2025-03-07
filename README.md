@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning React
 
 <div width="100%" align="center" justify="center">
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=LucasRachor&count_private=true&theme=material-palenight" />
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRachor&theme=material-palenight" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=LucasRachor&count_private=true&theme=material-palenight&show_icons=true" />
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRachor&theme=material-palenight" />
   <br/>
   <br/>
   <a href="https://www.linkedin.com/in/lucas-rachor-16b52a292/">
