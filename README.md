@@ -6,8 +6,8 @@
 
 
 - 👋 Hi, I’m Lucas Rachor
-- 💻 Backend Developer
-- ✨ Typescript | NestJS | NodeJS
+- 💻 Full-Stack Developer
+- ✨ Typescript | Javascript | NestJS | NodeJS
 - 🌱 I’m currently learning React
 
 <div width="100%" align="center" justify="center">
