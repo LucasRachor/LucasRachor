@@ -19,7 +19,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" width="40" alt="Python" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" height="40" width="40" alt="NestJS" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" height="40" width="40" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" />
