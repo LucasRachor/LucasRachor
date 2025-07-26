@@ -36,7 +36,7 @@
 
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=LucasRachor&show_icons=true&theme=material-palenight&count_private=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRachor&layout=compact&theme=material-palenight" />
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRachor&layout=compact&theme=material-palenight" />
 </div>
 
 ---
