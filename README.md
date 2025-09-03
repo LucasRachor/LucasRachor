@@ -10,7 +10,6 @@
 - 🎓 Full Stack Developer with focus on **Backend**
 - 💼 Passionate about building efficient and secure systems
 - 🚀 1 year and 6 months of experience in full-stack web development
-- 🌱 Currently learning about **Jenkins** and improving cloud skills (AWS)
 
 ---
 
